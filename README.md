@@ -43,5 +43,3 @@ Implementar um CRUD eficiente é essencial para a gestão de cadastros de client
 Este projeto utiliza **MySQL** e **JDBC** para a persistência dos dados.
 
 ---
-
-Salve este conteúdo em um arquivo `.md` para utilizar no seu projeto de documentação! 📄
